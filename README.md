@@ -22,3 +22,8 @@ To explore the website, please visit the `index.html` file located in the `src` 
 - **HTML**: For structuring the content of the webpages.
 - **CSS**: For styling and layout of the webpages.
 - **JavaScript**: To add interactivity to the webpages.
+
+## Summary of actions taken in this Repo
+-- Owner created branch "feature/add-homepage." adn pushed changes to it, created ppull request and merged
+-- Collaborator student created "feature/add-about-page," pushed changes on the my-portfolio page
+-- Created merge conflict and solved it
